@@ -16,7 +16,7 @@ The Red toolchain comes as a single **half-megabyte** executable file that you c
 
         Red [
         	Title: "Simple hello world script"
-        ]
+        ]jkjkjkjn
         
         print "Hello World!"
 
